@@ -1,0 +1,14 @@
+#include <iostream>
+
+int main() {
+    int t,tempo_gasto=0;
+    double mi;
+    std::cin >> t >> mi;
+
+    for (;mi>1;mi/= 2,tempo_gasto = tempo_gasto+t) {
+    }
+
+    std::cout << tempo_gasto << " segundo(s)" << std::endl;
+
+    return 0;
+}
