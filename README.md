@@ -1,2 +1,3 @@
-This repository was created to share some of my college activities.
-everything is in C++(i guess).
+# Algoritm
+> My Algoritm materials and activities.  
+everything was done in C++.
