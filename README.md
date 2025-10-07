@@ -1,5 +1,5 @@
 # Algoritm
-> My Algoritm materials and activities.  
+> My Algoritm material.
 
 ## Vector Array
 > Activity where the challenge was to recreate a functional Array.
